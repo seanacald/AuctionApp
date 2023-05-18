@@ -1,0 +1,9 @@
+login
+TestUser
+password
+advertise
+something
+300.00
+14
+logout
+quit

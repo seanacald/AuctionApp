@@ -1,0 +1,9 @@
+login
+IsAdmin
+password
+bid
+something
+TestUser
+301.00
+logout
+quit

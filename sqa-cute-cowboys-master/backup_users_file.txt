@@ -1,0 +1,7 @@
+TestUser        FS 000156.00
+OtherName       BS 099999.99
+IsAdmin         AA 999943.00
+ExistingUser    FS 000000.00
+BuyStandardOnly BS 001000.00
+nuggie king     FS 009000.00
+UserName        SS 001000.00

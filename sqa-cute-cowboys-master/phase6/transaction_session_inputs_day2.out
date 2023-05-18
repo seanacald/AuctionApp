@@ -1,0 +1,32 @@
+03-8_save_advertise_transaction.in.txt:
+login
+nuggie king
+password
+advertise
+apple
+99.99
+100
+logout
+quit
+
+04-10_record_bid.in.txt:
+login
+BuyStandardOnly
+password
+bid
+test item 2
+UserName
+600.00
+logout
+quit
+
+01-2_create_while_admin.in.txt:
+login
+IsAdmin
+password
+create
+TestUser
+FS
+9999.00
+logout
+quit

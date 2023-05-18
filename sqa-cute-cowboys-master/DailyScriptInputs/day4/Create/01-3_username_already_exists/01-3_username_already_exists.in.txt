@@ -1,0 +1,7 @@
+login
+IsAdmin
+password
+create
+AnotherNewUser
+logout
+quit

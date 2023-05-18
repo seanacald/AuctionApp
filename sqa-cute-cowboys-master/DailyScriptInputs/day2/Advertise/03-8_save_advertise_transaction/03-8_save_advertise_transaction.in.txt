@@ -1,0 +1,9 @@
+login
+nuggie king
+password
+advertise
+apple
+99.99
+100
+logout
+quit

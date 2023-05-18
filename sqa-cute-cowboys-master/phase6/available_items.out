@@ -1,0 +1,36 @@
+initial:
+test item                 AnotherUser     SomeGuy         099 999.99
+pineapple                 TestUser        OtherUser       016 005.00
+Dragon Scimmy             TestUser                        012 000.99
+apple                     TestUser        OtherUser       021 005.00
+test item 2               UserName                        009 001.00
+
+day1:
+test item                 AnotherUser     SomeGuy         098 999.99
+Dragon Scimmy             TestUser                        011 000.99
+test item 2               UserName                        008 001.00
+
+day2:
+test item                 AnotherUser     SomeGuy         097 999.99
+Dragon Scimmy             TestUser                        010 000.99
+test item 2               UserName        BuyStandardOnly 007 600.00
+apple                     nuggie king                     099 099.99
+
+day3:
+test item                 AnotherUser     SomeGuy         096 999.99
+Dragon Scimmy             TestUser                        009 000.99
+test item 2               UserName        BuyStandardOnly 006 600.00
+apple                     nuggie king                     098 099.99
+
+day4:
+test item                 AnotherUser     SomeGuy         095 999.99
+Dragon Scimmy             TestUser                        008 000.99
+test item 2               UserName        BuyStandardOnly 005 600.00
+apple                     nuggie king                     097 099.99
+something                 TestUser                        013 300.00
+
+day5
+test item                 AnotherUser     SomeGuy         094 999.99
+Dragon Scimmy             TestUser                        007 000.99
+test item 2               UserName        BuyStandardOnly 004 600.00
+something                 TestUser        IsAdmin         012 301.00

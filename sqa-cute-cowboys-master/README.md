@@ -1,5 +1,5 @@
-sqa-cute-cowboys
-Team Name: Cute Cowboys
+sqa-cowboys
+Team Name:Cowboys
 
 Group Members: Luke Tran, Sean Caldwell, Calvin Lapp
 

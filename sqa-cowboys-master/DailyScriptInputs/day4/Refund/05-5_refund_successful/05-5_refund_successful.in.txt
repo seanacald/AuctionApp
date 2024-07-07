@@ -1,0 +1,9 @@
+login
+IsAdmin
+password
+refund
+BuyStandardOnly
+OtherName
+999.00
+logout
+quit

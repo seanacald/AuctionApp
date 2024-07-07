@@ -1,0 +1,9 @@
+login
+IsAdmin
+password
+create
+NewUser
+FS
+99.00
+logout
+quit

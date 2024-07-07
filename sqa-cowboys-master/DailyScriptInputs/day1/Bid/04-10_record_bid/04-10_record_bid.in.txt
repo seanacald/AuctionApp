@@ -1,0 +1,9 @@
+login
+TestUser
+password
+bid
+apple
+TestUser
+6.00
+logout
+quit

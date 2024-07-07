@@ -1,0 +1,9 @@
+login
+BuyStandardOnly
+password
+bid
+test item 2
+UserName
+600.00
+logout
+quit

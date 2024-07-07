@@ -1,0 +1,9 @@
+login
+IsAdmin
+password
+create
+TestUser
+FS
+9999.00
+logout
+quit

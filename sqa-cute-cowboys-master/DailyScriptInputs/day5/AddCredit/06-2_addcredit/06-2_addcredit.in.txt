@@ -1,8 +1,0 @@
-login
-IsAdmin
-password
-addcredit
-TestUser
-1.00 
-logout
-quit

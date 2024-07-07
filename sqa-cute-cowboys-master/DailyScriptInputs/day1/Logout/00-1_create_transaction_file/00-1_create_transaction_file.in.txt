@@ -1,5 +1,0 @@
-login
-UserName
-password
-logout
-quit

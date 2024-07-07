@@ -1,7 +1,0 @@
-login
-TestUser
-password
-addcredit
-130.00
-logout
-quit

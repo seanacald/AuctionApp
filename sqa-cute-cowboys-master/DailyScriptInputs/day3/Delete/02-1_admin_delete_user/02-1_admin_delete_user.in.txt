@@ -1,7 +1,0 @@
-login
-IsAdmin
-password
-delete
-ExistingUser
-logout
-quit

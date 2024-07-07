@@ -1,7 +1,0 @@
-login
-NewUser
-password
-addcredit
-2000.00
-logout
-quit

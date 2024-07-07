@@ -1,7 +1,0 @@
-login
-IsAdmin
-password
-delete
-nuggie king
-logout
-quit

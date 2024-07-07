@@ -1,9 +1,0 @@
-login
-IsAdmin
-password
-refund
-TestUser
-OtherName
-12.00
-logout
-quit
